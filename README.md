@@ -1,5 +1,3 @@
-以下是为您的 `img2ico` 项目生成的 `README.md` 文件内容，您可以直接复制到项目根目录：
-
 ```markdown
 # img2ico
 
